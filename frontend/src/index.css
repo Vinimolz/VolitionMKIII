@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+main {
+  min-height: 80vh;
+}
+
+#x-title {
+  font-size: larger;
+  font-weight: bolder;
+  color: rgb(76, 146, 215);
+  margin-right: 150px;
+}
+h4 {
+  padding: 1rem 0;
+}
+.rating span{
+  margin: 0.15rem;
+}
+.btn-block{
+  width: 100%;
+}
+
+h1{
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+h2{
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+.justify-content-md-center.row button{
+  margin-top: 2rem;
+}
+
+.Vini-search-box{
+  display: flex;
+}
